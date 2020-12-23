@@ -17,7 +17,7 @@ accés au service S3 ECS
 ```markdown
 Reverse Proxy Traefik 2.4
 
-# endpoint  https://s3.open-attitude.clou
+# endpoint  https://s3.open-attitude.cloud
 
 - Access key : demo
 - Secret Key : xxxxxxxxxxxxxx
