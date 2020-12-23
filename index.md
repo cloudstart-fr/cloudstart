@@ -30,7 +30,7 @@ Reverse Proxy Traefik 2.4
 [Link](url) and ![Image](src)
 ```
 
-Etats des services  [uptime](https://status.scw2.cloudstart.fr).
+Etats des services  [Uptime demo.lab](https://status.scw2.cloudstart.fr).
 
 ### Jekyll Themes
 
