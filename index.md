@@ -1,22 +1,26 @@
 ## Welcome to HomeLab
 
-You can access to [ECS Community](https://ecs.open-attitude.cloud) to maintain and preview the content for your website in Markdown files.
+Présentation des services disponibles :
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Minio Ugloo](https://s3-ugloo.open-attitude.cloud) 
 
-### Markdown
+[Rancher](https://rancher.open-attitude.cloud) Clusters : k3s, k8s csi.vsphere.vmware.com, csi.isilion.dellemc.com, csi.unity.dellemc.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Acces au Lab](https://lab.open-attitude.cloud) HTML5 VDI
+
+[ECS Community](https://ecs.open-attitude.cloud) version Communautaire 3.4 (3 nodes 2,5TB)
+
+### Environnement S3
+
+accés au service S3 ECS
 
 ```markdown
-Syntax highlighted code block
+Reverse Proxy Traefik 2.4
 
-# Header 1
-## Header 2
-### Header 3
+# endpoint  https://s3.open-attitude.clou
 
-- Bulleted
-- List
+- Access key : demo
+- Secret Key : xxxxxxxxxxxxxx
 
 1. Numbered
 2. List
@@ -26,7 +30,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Etats des services  [uptime](https://status.scw2.cloudstart.fr).
 
 ### Jekyll Themes
 
